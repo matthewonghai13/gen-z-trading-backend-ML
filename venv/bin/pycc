@@ -1,0 +1,3 @@
+#!/Users/matt/Developer/gen-z-trading-backend-ML/venv/bin/python
+from numba.pycc import main
+main()
