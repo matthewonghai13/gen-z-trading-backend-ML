@@ -1,6 +1,7 @@
 import requests
 
 BASE = "http://127.0.0.1:5000/"
+BASE = "https://gen-z-trading-backend-ml.herokuapp.com/"
 
 file = open('./backend/recordingold.wav', 'rb')
 # files = {'video': file}
